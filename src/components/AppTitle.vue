@@ -14,6 +14,10 @@ export default {
 
 <style scoped>
 .title {
-  color: rgb(167, 112, 80);
+  color: rgba(80, 167, 84, 0.432);
+}
+
+.title {
+  font-style: oblique;
 }
 </style>
